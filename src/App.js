@@ -1,6 +1,6 @@
 
 import './App.css';
-import Addtask from './components/addtask';
+import Addtask from './components/Addtask';
 import Listtask from './components/Listtask';
 function App() {
   return (

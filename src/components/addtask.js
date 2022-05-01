@@ -14,7 +14,7 @@ const mapDispatchToProps = (dispatch) => {
   };
 };
 
-const addtask = (props) => {
+const Addtask = (props) => {
   
   console.log("props",props);
   
@@ -64,4 +64,4 @@ const addtask = (props) => {
 };
 
 //we can use connect method to connect this component with redux store
-export default connect(mapStateToProps, mapDispatchToProps)(addtask);
+export default connect(mapStateToProps, mapDispatchToProps)(Addtask);
