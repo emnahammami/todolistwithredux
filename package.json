@@ -2,7 +2,7 @@
   "name": "reduxtodolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://emnahammami.github.io/reduxtodolist",
+  "homepage": "https://emnahammami.github.io/dolistwithredux",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
     "@testing-library/jest-dom": "^5.14.1",
